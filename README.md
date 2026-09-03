@@ -61,15 +61,16 @@ The analysis was presented using Excel charts, including:
 
 These visualizations were used to communicate sales performance, product distribution, payment methods, and revenue trends.
 
-## 💡 Business Insights
+## 💡 Key Insights
 
-The analysis helps identify:
+The analysis revealed several important business insights:
 
-- Top-performing stores.
-- Best-selling products.
-- Revenue patterns over time.
-- Customer payment preferences.
-- Product and category performance.
+- The dataset contains 206 total orders with total revenue of 312,985.4.
+- Omdurman generated the highest revenue at 128,811.5, followed by Bahri at 114,188 and Khartoum at 69,985.9.
+- Shoes were the top-performing product category, generating 111,511.5 in revenue, approximately 35.6% of total revenue.
+- Credit Card was the most frequently used payment method, accounting for 111 orders (53.9%).
+- June 2024 recorded the highest monthly revenue at 57,236.5.
+- Revenue was higher in 2024 (182,069.9) than in 2025 (130,915.5) within the analyzed period.
 
 ## 📁 Dataset
 
