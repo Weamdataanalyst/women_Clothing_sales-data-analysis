@@ -6,7 +6,7 @@ A data analysis project exploring sales performance, revenue trends, store perfo
 
 This project analyzes women's clothing sales data to identify business trends, measure sales performance, and generate actionable insights.
 ## 📊 Dashboard
-![Sales Dashboard](Sales_dashboard.png)
+![Sales Dashboard](./Sales_dashboard.png)
 
 ## 🛠️ Tools & Skills
 
